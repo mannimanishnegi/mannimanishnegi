@@ -32,7 +32,7 @@ class ManishNegi extends Developer
 
     public function status(): string
     {
-        return 'Open to new opportunities — let’s build something great.';
+        return 'Open to new opportunities - lets build something great.';
     }
 }
 ```
