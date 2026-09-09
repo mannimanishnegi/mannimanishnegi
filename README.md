@@ -1,169 +1,154 @@
-<div align="center">
+# Manish Negi
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16294A,100:2E75B6&height=200&section=header&text=Manish%20Negi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20PHP%20/%20Laravel%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+**Senior PHP / Laravel Full Stack Developer**
 
-<a href="https://linkedin.com/in/mannimanishnegi">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:negim200@gmail.com">
-  <img src="https://img.shields.io/badge/Email-16294A?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="tel:+919675781510">
-  <img src="https://img.shields.io/badge/Call-2E75B6?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=mannimanishnegi&label=Profile+Views&color=2E75B6&style=for-the-badge" />
+Rishikesh, Uttarakhand, India · +91 96757 81510 · [negim200@gmail.com](mailto:negim200@gmail.com)
+[linkedin.com/in/mannimanishnegi](https://linkedin.com/in/mannimanishnegi) · [github.com/mannimanishnegi](https://github.com/mannimanishnegi)
 
-</div>
+---
 
-<br/>
+## Professional Summary
 
-## About Me
+Senior PHP / Laravel Developer with 6+ years of experience designing and building scalable web applications, RESTful APIs, and backend systems. Proven track record across e-commerce, HRMS, university ERP portals, and travel/visa platforms, with hands-on expertise in payment gateway integration, third-party API integration, admin panel development, and performance optimization. Skilled at taking projects from requirement gathering through production deployment and support, with a strong record of on-time delivery across six organizations.
 
-I'm a **Senior PHP / Laravel Developer** with **6+ years** of experience designing and building scalable web applications, RESTful APIs, and backend systems — across e-commerce, HRMS, university ERP portals, and travel/visa platforms.
+---
 
-```php
-class ManishNegi extends Developer
-{
-    protected $role      = 'Senior PHP / Laravel Full Stack Developer';
-    protected $experience = '6+ Years';
-    protected $location  = 'Rishikesh, Uttarakhand, India';
-    protected $expertise = ['Laravel', 'REST APIs', 'Payment Gateways', 'MySQL', 'WordPress'];
-    protected $currentlyExploring = 'AI-assisted development (ChatGPT, Gemini)';
+## Core Competencies
 
-    public function status(): string
-    {
-        return 'Open to new opportunities - lets build something great.';
-    }
-}
-```
+- PHP / Laravel / CodeIgniter
+- MySQL & Database Design
+- RESTful API Development
+- WordPress / CMS Customization
+- Third-Party API Integration
+- Payment Gateway Integration
+- E-Commerce Platforms
+- Web Application Development
+- Git / Version Control
+- AI-Assisted Development (Prompt Engineering)
 
-<br/>
+---
 
-## Tech Stack
+## Technical Skills
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,mysql,wordpress,html,css,js,jquery,bootstrap,git&theme=light" />
-
-</div>
-
-<div align="center">
-
-&nbsp;
-
-| Category | Stack |
+| Category | Skills |
 |---|---|
-| **Backend** | PHP · Laravel · CodeIgniter |
-| **Frontend** | HTML5 · CSS3 · JavaScript · jQuery · AJAX · Bootstrap |
-| **Database** | MySQL · MySQLi |
-| **CMS / E-Commerce** | WordPress · Custom Laravel/CodeIgniter CMS |
-| **Payments** | Razorpay · PayPal · Stripe · CCAvenue |
-| **Deployment** | cPanel · WHM · VPS · DNS · SSL |
-| **AI Tools** | ChatGPT · Gemini · Prompt Engineering |
+| **Backend** | PHP, Laravel, CodeIgniter |
+| **Frontend** | HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap |
+| **AI Tools** | Gemini, ChatGPT, Prompt Engineering for Code & UI |
+| **E-Commerce / CMS** | WordPress, Custom Laravel / CodeIgniter CMS |
+| **Databases** | MySQL, MySQLi |
+| **Hosting & Deployment** | cPanel, WHM, VPS & Shared Hosting, DNS, SSL, Deployment & Migration |
+| **Tools** | Git, cPanel, WHM, XAMPP |
 
-</div>
+---
 
-<br/>
+## Professional Experience
 
-## Featured Projects
+### Senior Laravel Developer — BABVIP
+*Nov 2025 – Apr 2026*
 
-<table>
-<tr>
-<td width="50%">
+- Developed scalable web applications and RESTful APIs using Laravel.
+- Worked on HRMS and e-commerce platforms, including payment gateway integration and backend modules.
+- Optimized application performance across backend modules.
 
-### 🛒 Aone Go Basket
-E-commerce platform with admin panel and rider-side functionality.
+### Senior PHP Developer — Security Printers of India Pvt. Ltd.
+*May 2023 – Oct 2025*
 
-`Laravel` `REST APIs` `Admin Panel`
+- Built solutions using PHP, WordPress, CodeIgniter, and Laravel.
+- Handled API development and payment gateway integration.
+- Contributed scalable backend solutions to the Sri Dev Suman University ERP project.
 
+### Senior PHP Developer — Elanwrap Technologies
+*Nov 2022 – May 2023*
+
+- Worked with Core PHP, WordPress, and CodeIgniter.
+- Developed APIs and contributed backend functionality to the Sobhan Singh Jeena University (SSJU) project, including application maintenance.
+
+### PHP Developer — Pearl Organisation
+*Jul 2021 – Nov 2022*
+
+- Worked with Core PHP, WordPress, and CodeIgniter.
+- Responsible for API development, payment gateway integration, and maintenance of web applications.
+
+### Senior PHP Developer — Tramiso Travels Pvt. Ltd.
+*Jun 2019 – Jul 2020*
+
+- Developed visa-related web applications using Core PHP.
+- Handled backend logic, database management, third-party integrations, and performance optimization.
+
+### PHP Developer — Baseline IT Development
+*May 2018 – Jun 2019*
+
+- Worked on Core PHP and WordPress development.
+- Handled web application development, API integration, backend management, and maintenance.
+
+---
+
+## Selected Projects
+
+### Aone Go Basket — E-commerce Platform
+`Laravel` `REST APIs` `Admin Panel` `Rider Panel`
+
+Developed an e-commerce platform in Laravel with API integration, admin management, and rider-side functionality.
 🔗 [aonegobasket.com](https://aonegobasket.com)
 
-</td>
-<td width="50%">
+### University Academic Portal — Sri Dev Suman University
+`CodeIgniter` `ERP` `Payment Gateway` `SMS` `Academic Workflow`
 
-### 🎓 Sri Dev Suman University ERP
-University ERP covering admissions, results, affiliation, payments & SMS.
-
-`CodeIgniter` `ERP` `Payment Gateway`
-
+Developed and enhanced university ERP functionality covering migration, provisional and degree workflows, grievance/RTI, online applications, teacher management, result upload/display, affiliation, payment gateway, and SMS services.
 🔗 [sdsuv.ac.in](https://sdsuv.ac.in)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### University Academic Portal — SSJU
+`CodeIgniter` `Student Portal` `Results` `Affiliation`
 
-### 🎓 SSJU Academic Portal
-College affiliation, results, and student portal system.
-
-`CodeIgniter` `Student Portal`
-
+Developed college affiliation and result/marks upload workflows, result display, and student portal functionality using CodeIgniter.
 🔗 [ssju.ac.in](https://ssju.ac.in)
 
-</td>
-<td width="50%">
+### Security Printers — Informational / Product Website
+`WordPress` `Website Development`
 
-### ✈️ Visa & Travel Platforms
-Multi-country visa application system with multi-step forms.
+Developed a WordPress-based informational website for security-printing-related products and services.
+🔗 [spikanpur.in](https://spikanpur.in)
 
-`Core PHP` `Razorpay` `AJAX`
+### Lenslife — Website / E-commerce Project
+`WordPress` `Booking` `Product Information`
 
-🔗 [travelindian.in](https://travelindian.in)
+Developed a WordPress website with product/information sections and booking-related functionality.
+🔗 [lenslife.co.in](https://lenslife.co.in)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### Actividees
+`PHP` `WordPress` `AJAX` `jQuery` `HTML`
 
-### 🚚 FXT Logistics — Toll Book
-Toll-price calculation with API integration and payment gateways.
+Created tour booking search functionality and countdown timers according to tour schedules.
+🔗 [actividees.com](https://actividees.com)
 
-`CodeIgniter` `PayPal` `Stripe`
+### Spot Pop Fashion
+`PHP` `WordPress` `AJAX` `jQuery` `HTML`
 
+Created an admin panel and product wishlist functionality.
+🔗 [spotpopfashion.com](https://spotpopfashion.com)
+
+### FXT Logistics — Toll Book
+`HTML` `AJAX` `jQuery` `MySQLi` `APIs` `CodeIgniter`
+
+Implemented toll-price calculation using an API and integrated the PayPal payment gateway; configured PayPal and Stripe payment gateways.
 🔗 [fxtlogistics.com](https://fxtlogistics.com)
 
-</td>
-<td width="50%">
+### Visa & Travel Platforms
+`Core PHP` `AJAX` `jQuery` `MySQLi` `Razorpay`
 
-### 🛍️ Turant Buy And Sell
-Payment gateway integration and core application functionality.
+Developed visa websites including Turkey, Australia, Sri Lanka, Thailand, and Malaysia visas. Built multi-step forms, an admin panel, a notification bell, Razorpay integration, and domain/hosting connectivity.
+🔗 [travelindian.in](https://travelindian.in)
 
-`CodeIgniter` `CCAvenue` `MySQLi`
+### Turant Buy And Sell
+`CodeIgniter` `MySQLi` `AJAX` `jQuery` `APIs` `CCAvenue`
 
+Worked on CCAvenue payment gateway integration and core web application functionality; created APIs for the application.
 🔗 [turantbuyandsell.com](https://www.turantbuyandsell.com/)
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+## Education
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mannimanishnegi&show_icons=true&theme=transparent&hide_border=true&title_color=2E75B6&icon_color=2E75B6&text_color=44546A" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mannimanishnegi&theme=transparent&hide_border=true&ring=2E75B6&fire=2E75B6&currStreakLabel=2E75B6" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannimanishnegi&layout=compact&theme=transparent&hide_border=true&title_color=2E75B6&text_color=44546A" width="40%" />
-
-</div>
-
-<br/>
-
-## Let's Connect
-
-<div align="center">
-
-I'm always open to discussing Laravel architecture, API design, or new opportunities in backend / full-stack development.
-
-<a href="https://linkedin.com/in/mannimanishnegi">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:negim200@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-16294A?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,100:16294A&height=120&section=footer" width="100%" />
+**Bachelor of Computer Applications (BCA)**
+Modern Institute of Technology, Dhalwala, Rishikesh, Uttarakhand — 2016
