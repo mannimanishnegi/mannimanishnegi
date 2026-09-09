@@ -21,23 +21,38 @@
 
 I'm a **Senior PHP / Laravel Developer** with **6+ years** of experience designing and building scalable web applications, RESTful APIs, and backend systems — across e-commerce, HRMS, university ERP portals, and travel/visa platforms.
 
-```php
-class ManishNegi extends Developer
-{
-    protected $role      = 'Senior PHP / Laravel Full Stack Developer';
-    protected $experience = '6+ Years';
-    protected $location  = 'Rishikesh, Uttarakhand, India';
-    protected $expertise = ['Laravel', 'REST APIs', 'Payment Gateways', 'MySQL', 'WordPress'];
-    protected $currentlyExploring = 'AI-assisted development (ChatGPT, Gemini)';
+## Professional Summary
 
-    public function status(): string
-    {
-        return 'Open to new opportunities - lets build something great.';
-    }
-}
-```
+Senior PHP / Laravel Developer with 6+ years of experience designing and building scalable web applications, RESTful APIs, and backend systems. Proven track record across e-commerce, HRMS, university ERP portals, and travel/visa platforms, with hands-on expertise in payment gateway integration, third-party API integration, admin panel development, and performance optimization. Skilled at taking projects from requirement gathering through production deployment and support, with a strong record of on-time delivery across six organizations.
 
-<br/>
+---
+
+## Core Competencies
+
+- PHP / Laravel / CodeIgniter
+- MySQL & Database Design
+- RESTful API Development
+- WordPress / CMS Customization
+- Third-Party API Integration
+- Payment Gateway Integration
+- E-Commerce Platforms
+- Web Application Development
+- Git / Version Control
+- AI-Assisted Development (Prompt Engineering)
+
+---
+
+## Technical Skills
+
+| Category | Skills |
+|---|---|
+| **Backend** | PHP, Laravel, CodeIgniter |
+| **Frontend** | HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap |
+| **AI Tools** | Gemini, ChatGPT, Prompt Engineering for Code & UI |
+| **E-Commerce / CMS** | WordPress, Custom Laravel / CodeIgniter CMS |
+| **Databases** | MySQL, MySQLi |
+| **Hosting & Deployment** | cPanel, WHM, VPS & Shared Hosting, DNS, SSL, Deployment & Migration |
+| **Tools** | Git, cPanel, WHM, XAMPP |
 
 ## Tech Stack
 
