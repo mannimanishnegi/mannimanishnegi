@@ -27,33 +27,6 @@ Senior PHP / Laravel Developer with 6+ years of experience designing and buildin
 
 ---
 
-## Core Competencies
-
-- PHP / Laravel / CodeIgniter
-- MySQL & Database Design
-- RESTful API Development
-- WordPress / CMS Customization
-- Third-Party API Integration
-- Payment Gateway Integration
-- E-Commerce Platforms
-- Web Application Development
-- Git / Version Control
-- AI-Assisted Development (Prompt Engineering)
-
----
-
-## Technical Skills
-
-| Category | Skills |
-|---|---|
-| **Backend** | PHP, Laravel, CodeIgniter |
-| **Frontend** | HTML5, CSS, JavaScript, jQuery, AJAX, Bootstrap |
-| **AI Tools** | Gemini, ChatGPT, Prompt Engineering for Code & UI |
-| **E-Commerce / CMS** | WordPress, Custom Laravel / CodeIgniter CMS |
-| **Databases** | MySQL, MySQLi |
-| **Hosting & Deployment** | cPanel, WHM, VPS & Shared Hosting, DNS, SSL, Deployment & Migration |
-| **Tools** | Git, cPanel, WHM, XAMPP |
-
 ## Tech Stack
 
 <div align="center">
